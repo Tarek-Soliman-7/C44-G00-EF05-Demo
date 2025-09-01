@@ -1,0 +1,32 @@
+﻿{
+   "ConnectionStringName": "dab-connection-string",
+   "Dacpac": null,
+   "DatabaseType": 3,
+   "ProjectPath": "C:\\Users\\qal3a\\OneDrive\\Documents\\.NET Course\\C#\\C44-G00-EF05-Demo\\DatabaseFirstByPowerTools",
+   "Tables": [
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Employees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Suppliers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Category Sales for 1997]",
+         "ObjectType": 3
+      }
+   ]
+}
